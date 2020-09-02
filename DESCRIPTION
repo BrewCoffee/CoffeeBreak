@@ -1,0 +1,13 @@
+Package: CoffeeBreak
+Type: Package
+Title: Coffee Break Management
+Version: 1.0.0
+Author: CoffeeBrew
+Maintainer: CoffeeBrew
+Description: Allows the user to choose length of a break he might spend away 
+    from the keyboard while not being logged out.
+License: What license is it under?
+Encoding: UTF-8
+LazyData: true
+Imports: KeyboardSimulator
+RoxygenNote: 7.1.0
